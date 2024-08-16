@@ -1,0 +1,7 @@
+<library path="lib/libik_solver_lib">
+  <class type="ik_solver_plugin::TracIKSolver" base_class_type="ik_solver_plugin::IKSolverBase">
+    <description>
+      An IK solver plugin using TRAC_IK.
+    </description>
+  </class>
+</library>
